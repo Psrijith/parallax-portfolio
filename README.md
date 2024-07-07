@@ -1,33 +1,10 @@
 # Parallax Animation in React
 
-This project is created as part of below YouTube video.
+ 
+# use site 
+[https://www.react-spring.dev/docs/components/parallax]
 
-<p align="center"> 
-    <a href="https://youtu.be/jeSPvDI-IJw" target="_blank">
-    <img src="http://img.youtube.com/vi/jeSPvDI-IJw/0.jpg"></img>
-  </a>
-</p>
+tags react ,parallax, reactjs, parallax-web, parallax-scrolling, parallax-effect, react-spring
 
-#### Installation
-Follow these steps to set up the PDF Merger Web App on your local machine:
-
-#### Clone the Repository:
-
-```bash
-git clone https://github.com/ashutosh1919/react-parallax-demo.git
-cd react-parallax-demo
-```
-
-Install Dependencies:
-
-```bash
-npm install
-```
-
-Start the Application:
-
-```bash
-npm start
-```
-
-The app will be accessible at http://localhost:3000.
+USED YT [https://youtu.be/jeSPvDI-IJw?si=QdauHWiaQikpY_1w]
+parallax playlist [https://youtube.com/playlist?list=PLkY85cDHOEpuxnzOBj2Cl5UEIFfKVBQq7&feature=shared]
