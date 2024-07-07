@@ -7,3 +7,7 @@
 
 tags 
 react ,parallax ,reactjs ,parallax-web ,parallax-scrolling ,parallax-effect ,react-spring
+
+
+USED YT 
+[https://www.youtube.com/c/DevSense19]
